@@ -1,0 +1,5 @@
+[27-Jun-2025 20:17:15 America/Argentina/Mendoza] PHP Warning:  Trying to access array offset on value of type null in /home/demo/public_html/vistas/modulos/cajas.php on line 400
+[27-Jun-2025 20:17:15 America/Argentina/Mendoza] PHP Warning:  Undefined variable $detalleIngresos in /home/demo/public_html/vistas/modulos/cajas.php on line 558
+[27-Jun-2025 20:17:15 America/Argentina/Mendoza] PHP Warning:  Undefined variable $detalleEgresos in /home/demo/public_html/vistas/modulos/cajas.php on line 559
+[27-Jun-2025 20:17:15 America/Argentina/Mendoza] PHP Warning:  Undefined variable $vistaIngresos in /home/demo/public_html/vistas/modulos/cajas.php on line 581
+[27-Jun-2025 20:17:15 America/Argentina/Mendoza] PHP Warning:  Undefined variable $vistaEgresos in /home/demo/public_html/vistas/modulos/cajas.php on line 582
